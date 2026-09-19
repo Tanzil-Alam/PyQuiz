@@ -1,2 +1,2 @@
-# HTML-GAME
-Its a Game, made in HTML structure.
+# PyQuiz
+A quick browser quiz game I put together to test Python knowledge. Each run picks 8 random questions from a pool of 25—covering everything from basic syntax to trickier stuff like slicing, scope, and decorators. There's a 20-second timer per question to keep things interesting and a score breakdown at the end. Built with vanilla JS, HTML, and Tailwind CSS. Just double-click index.html in any browser to play.
