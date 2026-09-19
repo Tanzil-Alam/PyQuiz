@@ -1,2 +1,2 @@
 # WarioWareGame
-Its a Warior Game.
+Its a Game, made in HTML structure.
